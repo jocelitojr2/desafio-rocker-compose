@@ -29,6 +29,8 @@ Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
 DB_NAME=meubanco
 DB_USER=meuusuario
 DB_PASSWORD=senha
+DB_HOST=mysql
+DB_PORT=3306
 APP_PORT=3000
 ```
 
